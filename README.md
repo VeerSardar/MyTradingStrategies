@@ -1,0 +1,2 @@
+# MyTradingStrategies
+Databases for strategies
